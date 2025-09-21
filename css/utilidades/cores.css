@@ -2,20 +2,20 @@
 /*Definindo as cores que vão ser roteadas.*/
 :root {
   --cor-0: rgb(255, 255, 255);
-  --cor-1: #dbd6e0;
-  --cor-2: #bbb4be;
-  --cor-3: #988ba1;
-  --cor-4: #776585;
-  --cor-5: #5c4c6f;
-  --cor-6: #4e355a;
-  --cor-7: #382446;
-  --cor-8: #251632;
-  --cor-9: #1b0e2a;
-  --cor-10: #150a20;
-  --cor-11: #090311;
-  --cor-12: #08020d;
-  --cor-p1: #9a47be;
-  --cor-p2: #8438a7;
+  --cor-1: #ebebeb;
+  --cor-2: #cececf;
+  --cor-3: #a7a1ab;
+  --cor-4: #867a8f;
+  --cor-5: #6a5f77;
+  --cor-6: #584760;
+  --cor-7: #4d3f57;
+  --cor-8: #342a3c;
+  --cor-9: #30283a;
+  --cor-10: #27202e;
+  --cor-11: #15111a;
+  --cor-12: #060606;
+  --cor-p1: #ac62cb;
+  --cor-p2: #9448b5;
   --cor-p3: #75268b;
   --cor-p4: #571972;
   --cor-p5: #48115c;

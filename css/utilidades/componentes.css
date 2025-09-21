@@ -10,7 +10,7 @@
 .botao {
   display: inline-block;
   padding: 16px 32px;
-  background: linear-gradient(#BE9247, #A77E38);
+  background: linear-gradient(#9a47be, #8438a7);
   border-radius: 4px;
   /* box-shadow: y, x, blur, cresce alem do elemento, cor */
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); 
@@ -22,7 +22,7 @@
 }
 
 .botao:hover {
-  background: linear-gradient(#8B6626, #725219);
+  background: linear-gradient(#dbd6e0, #988ba1);
 }
 
 .botao.secundario {
